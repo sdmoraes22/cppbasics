@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/cmoraes/Documentos/Dev/HelloWorld/src/Main.cpp" "CMakeFiles/HelloWorld.dir/src/Main.cpp.o" "gcc" "CMakeFiles/HelloWorld.dir/src/Main.cpp.o.d"
-  "/home/cmoraes/Documentos/Dev/HelloWorld/src/hello.cpp" "CMakeFiles/HelloWorld.dir/src/hello.cpp.o" "gcc" "CMakeFiles/HelloWorld.dir/src/hello.cpp.o.d"
+  "/home/cmoraes/Documentos/Dev/CPP/HelloWorld/src/Main.cpp" "CMakeFiles/HelloWorld.dir/src/Main.cpp.o" "gcc" "CMakeFiles/HelloWorld.dir/src/Main.cpp.o.d"
+  "/home/cmoraes/Documentos/Dev/CPP/HelloWorld/src/hello.cpp" "CMakeFiles/HelloWorld.dir/src/hello.cpp.o" "gcc" "CMakeFiles/HelloWorld.dir/src/hello.cpp.o.d"
   )
 
 # Targets to which this target links.

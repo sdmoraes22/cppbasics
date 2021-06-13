@@ -1,8 +1,6 @@
 CMakeFiles/HelloWorld.dir/src/Main.cpp.o: \
- /home/cmoraes/Documentos/Dev/HelloWorld/src/Main.cpp \
- /usr/include/stdc-predef.h \
- /home/cmoraes/Documentos/Dev/HelloWorld/src/hello.hpp \
- /usr/include/c++/11/iostream \
+ /home/cmoraes/Documentos/Dev/CPP/HelloWorld/src/Main.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/c++/11/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
  /usr/include/c++/11/x86_64-redhat-linux/bits/os_defines.h \
