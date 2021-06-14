@@ -1,0 +1,3 @@
+/home/cmoraes/Documentos/Dev/CPP/HeaderFiles/build/CMakeFiles/rebuild_cache.dir
+/home/cmoraes/Documentos/Dev/CPP/HeaderFiles/build/CMakeFiles/edit_cache.dir
+/home/cmoraes/Documentos/Dev/CPP/HeaderFiles/build/CMakeFiles/HeaderFiles.dir
