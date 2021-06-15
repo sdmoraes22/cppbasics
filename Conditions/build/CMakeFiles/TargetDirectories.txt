@@ -1,0 +1,3 @@
+/home/cmoraes/Documentos/Dev/CPP/Conditions/build/CMakeFiles/rebuild_cache.dir
+/home/cmoraes/Documentos/Dev/CPP/Conditions/build/CMakeFiles/edit_cache.dir
+/home/cmoraes/Documentos/Dev/CPP/Conditions/build/CMakeFiles/Conditions.dir

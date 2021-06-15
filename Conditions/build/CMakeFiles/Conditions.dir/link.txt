@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -std=c++14 -g CMakeFiles/Conditions.dir/src/Conditions.cpp.o CMakeFiles/Conditions.dir/src/Log.cpp.o -o Conditions 
