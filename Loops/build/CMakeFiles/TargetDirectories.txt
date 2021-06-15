@@ -1,0 +1,3 @@
+/home/cmoraes/Documentos/Dev/CPP/Loops/build/CMakeFiles/rebuild_cache.dir
+/home/cmoraes/Documentos/Dev/CPP/Loops/build/CMakeFiles/edit_cache.dir
+/home/cmoraes/Documentos/Dev/CPP/Loops/build/CMakeFiles/Loops.dir
