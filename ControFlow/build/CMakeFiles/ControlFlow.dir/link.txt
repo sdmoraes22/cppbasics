@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -std=c++14 -g CMakeFiles/ControlFlow.dir/src/ControlFlow.cpp.o CMakeFiles/ControlFlow.dir/src/Log.cpp.o -o ControlFlow 
