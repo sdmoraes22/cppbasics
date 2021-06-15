@@ -1,0 +1,3 @@
+/home/cmoraes/Documentos/Dev/CPP/References/build/CMakeFiles/rebuild_cache.dir
+/home/cmoraes/Documentos/Dev/CPP/References/build/CMakeFiles/edit_cache.dir
+/home/cmoraes/Documentos/Dev/CPP/References/build/CMakeFiles/References.dir
