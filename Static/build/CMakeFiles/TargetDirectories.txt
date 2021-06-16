@@ -1,0 +1,3 @@
+/home/cmoraes/Documentos/Dev/CPP/Static/build/CMakeFiles/rebuild_cache.dir
+/home/cmoraes/Documentos/Dev/CPP/Static/build/CMakeFiles/edit_cache.dir
+/home/cmoraes/Documentos/Dev/CPP/Static/build/CMakeFiles/Static.dir
